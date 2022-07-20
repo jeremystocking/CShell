@@ -1,0 +1,12 @@
+
+How are you?
+ls -l -a
+cwd
+cd ..
+cwd
+cd derpderp
+cd
+cd p4
+cwd
+history
+history
